@@ -20,8 +20,6 @@ In other words and with respect to the implementation of my project, when it’s
 turn, with every move it adds +1 if win, -1 if lose and 0 if draw, and selects the move with
 maximum score.
 
-<img src = "blank.png" width = 200> 
-<img src = "win.png" width = 200>  
-<img src = "draw.png" width = 200>
+<img src = "blank.png" width = 250>   <img src = "win.png" width = 250>   <img src = "draw.png" width = 250>
 
 
