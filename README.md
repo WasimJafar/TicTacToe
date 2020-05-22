@@ -3,8 +3,8 @@ Tic Tac Toe Game
 What’s Tic-Tac-Toe?
 Tic-Tac-Toe is a two player’s game played in 3 x 3 grid box usually using Xs and Os; a player
 can win, lose or draw.
-## MINIMAX_Algorithm
 
+![](blank.png)
 ### MINIMAX_Algorithm
 It’s a decision-making approach which finds the best next move; and it’s being used here.
 Two players: Maximizer tries to maximize the chances of winning and Minimizer tries to
